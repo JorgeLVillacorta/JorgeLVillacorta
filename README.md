@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JorgeLVillacorta
-- 👀 I’m interested in ... Game Development, Web Applications
+- 👀 I’m interested in ... Web Applications
 - 🌱 I’m currently learning ... Databases
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jorgevillacorta05@gmail.com
